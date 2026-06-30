@@ -76,13 +76,8 @@ Arquitectura **cliente‑servidor sin frameworks**: el panel es una página admi
 
 ---
 ## Resultados e impacto (valor tangible)
-| Métrica | Impacto estimado |
-|---------|------------------|
-| **Tiempo de gestión** | Reducción > 70 % al eliminar export‑import manual de formularios. |
-| **Errores de datos** | Menor riesgo de inconsistencias gracias a la validación automática del MIME y sanitización. |
-| **Comunicación** | Envío masivo de instrucciones bancarias con un solo clic, disminuyendo consultas de aspirantes. |
-| **Visibilidad** | Dashboard con filtros y ordenación en tiempo real; decisiones rápidas del equipo. |
-| **Auditoría** | Historial de cambios (`S.hist`) y logs de AJAX para rastrear acciones. |
+<img width="1173" height="608" alt="image" src="https://github.com/user-attachments/assets/58a487c8-2551-476e-b7c8-801f8be27d38" />
+
 
 ## Conclusión
 El **Aspirantes Dashboard** entrega una solución integral, basada en WordPress, que automatiza la gestión de solicitudes, agiliza la recolección de comprobantes y permite una comunicación eficaz con los aspirantes. Con una arquitectura ligera (PHP + JS) y sin dependencias externas, el proyecto es **rápido de desplegar**, fácil de mantener y genera un impacto inmediato en la operatividad del equipo.
